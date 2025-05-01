@@ -1,0 +1,72 @@
+[
+  {
+    "question": "Who directed the movie shown in this scene?",
+    "image": "inception_scene",
+    "video": "",
+    "options": ["Steven Spielberg", "Christopher Nolan", "James Cameron", "Quentin Tarantino"],
+    "correctIndex": 1
+  },
+  {
+    "question": "From which movie is this pirate character?",
+    "image": "",
+    "video": "jack_sparrow_clip",
+    "options": ["Harry Potter", "The Lord of the Rings", "Pirates of the Caribbean", "Star Wars"],
+    "correctIndex": 2
+  },
+  {
+    "question": "This poster won Best Picture in 2020. What is the movie's name?",
+    "image": "parasite_poster",
+    "video": "",
+    "options": ["1917", "Parasite", "Joker", "Ford v Ferrari"],
+    "correctIndex": 1
+  },
+  {
+    "question": "What is the name of the second Harry Potter movie?",
+    "image": "",
+    "video": "",
+    "options": ["The Prisoner of Azkaban", "The Goblet of Fire", "The Chamber of Secrets", "The Order of the Phoenix"],
+    "correctIndex": 2
+  },
+  {
+    "question": "Identify the superhero shown in this image.",
+    "image": "batman_poster",
+    "video": "",
+    "options": ["Iron Man", "Spider-Man", "Superman", "Batman"],
+    "correctIndex": 3
+  },
+  {
+    "question": "Which movie is this scene with the villain shown in the clip?",
+    "image": "",
+    "video": "joker_clip",
+    "options": ["It", "Joker", "The Dark Knight", "Deadpool"],
+    "correctIndex": 1
+  },
+  {
+    "question": "From which animated movie is this snowman character?",
+    "image": "frozen_olaf",
+    "video": "",
+    "options": ["Frozen", "Moana", "Tangled", "Brave"],
+    "correctIndex": 0
+  },
+  {
+    "question": "In which movie does Tom Hanks survive on a deserted island?",
+    "image": "",
+    "video": "",
+    "options": ["Cast Away", "Forrest Gump", "Saving Private Ryan", "The Terminal"],
+    "correctIndex": 0
+  },
+  {
+    "question": "This scene is from which classic romantic movie?",
+    "image": "titanic_scene",
+    "video": "",
+    "options": ["Titanic", "Gladiator", "Braveheart", "Avatar"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Identify the fantasy movie shown in the video.",
+    "image": "",
+    "video": "lord_of_the_rings_clip",
+    "options": ["The Hunger Games", "Twilight", "The Lord of the Rings", "Percy Jackson"],
+    "correctIndex": 2
+  }
+]

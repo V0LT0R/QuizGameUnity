@@ -1,0 +1,42 @@
+[
+  {
+    "question": "The movie 'Titanic' was directed by James Cameron.",
+    "answer": true
+  },
+  {
+    "question": "The movie 'Avatar' is set on the planet Mars.",
+    "answer": false
+  },
+  {
+    "question": "'Forrest Gump' stars Tom Hanks as the main character.",
+    "answer": true
+  },
+  {
+    "question": "'The Lion King' was produced by Pixar.",
+    "answer": false
+  },
+  {
+    "question": "'Jaws' was directed by Steven Spielberg.",
+    "answer": true
+  },
+  {
+    "question": "In 'The Matrix', Neo is played by Brad Pitt.",
+    "answer": false
+  },
+  {
+    "question": "'Frozen' was released after 'Moana'.",
+    "answer": false
+  },
+  {
+    "question": "The 'Harry Potter' series has a total of 8 movies.",
+    "answer": true
+  },
+  {
+    "question": "'Star Wars' is set in the Marvel Cinematic Universe.",
+    "answer": false
+  },
+  {
+    "question": "'The Godfather' is considered one of the greatest films of all time.",
+    "answer": true
+  }
+]
