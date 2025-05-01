@@ -27,6 +27,10 @@ public class GameManager : MonoBehaviour
 
     public void SaveScore()
     {
+        // Сохраняем последний результат
+        PlayerPrefs.SetInt("LastScore", score);
+
+        // Если рекорд — обновляем BestScore
         int bestScore = PlayerPrefs.GetInt("BestScore", 0);
         if (score > bestScore)
         {

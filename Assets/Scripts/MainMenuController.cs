@@ -1,15 +1,19 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using TMPro;
 
 public class MainMenuController : MonoBehaviour
 {
-    [SerializeField] GameObject recordText;
+    public TextMeshProUGUI recordText;
+    public TextMeshProUGUI lastScoreText;
 
     private void Start()
     {
         int bestScore = PlayerPrefs.GetInt("BestScore", 0);
-        recordText.GetComponent<TMPro.TMP_Text>().text = "Best Score: " + bestScore;
+        int lastScore = PlayerPrefs.GetInt("LastScore", 0);
+
+        recordText.text = "Best Score: " + bestScore;
+        lastScoreText.text = "Last Score: " + lastScore;
     }
 
     public void StartGame()
